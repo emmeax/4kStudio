@@ -90,7 +90,7 @@ const Footers = () => {
                             </div>
                             <div>
                                 <p className="text-sm text-gray-400">Email</p>
-                                <p className="font-medium">contact@4kstudios.com</p>
+                                <p className="font-medium">contact@4kstudios.com us</p>
                             </div>
                         </div>
                     </div>
